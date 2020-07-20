@@ -1,0 +1,7 @@
+{
+  "name": "AAAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
